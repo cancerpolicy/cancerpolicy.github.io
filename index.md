@@ -1,7 +1,7 @@
-# About our model
-The model is described in detail in [Birnbaum et al 2015](https://www.ncbi.nlm.nih.gov/pubmed/26756332) (Annals of Internal Medicine). 
+# About the model
+The model is described in detail in [Birnbaum et al 2015](https://www.ncbi.nlm.nih.gov/pubmed/26756332) (Annals of Internal Medicine). In brief, it is a state-transition microsimulation model that projects breast cancer mortality outcomes for a cohort of women. Users can specify early detection and treatment interventions and compare the resulting outcomes to those under a given standard of care.
 
-# Run our model
+# Run the model
 To accommodate users of various backgrounds, we provide three levels of access. Click on the headings below to choose a level:
 
 ## 1. Basic web interface
